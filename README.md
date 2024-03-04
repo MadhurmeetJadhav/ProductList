@@ -1,11 +1,9 @@
-![Simulator Screenshot - iPhone SE (3rd generation) - 2024-03-05 at 03 41 45](https://github.com/MadhurmeetJadhav/ProductList/assets/89741221/aa4d70a5-b625-4760-97f2-26b2141522a2)
-![Simulator Screenshot - iPhone SE (3rd generation) - 2024-03-05 at 03 41 42](https://github.com/MadhurmeetJadhav/ProductList/assets/89741221/2dee7a30-f547-4c78-bcda-c97922a33edb)
 <<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
@@ -79,8 +77,8 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-=======
+- # [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
 # ProductList
+
 Basic Products List With added pagination for buttery smooth scrolling of large data with navigation to navigate between different page.
->>>>>>> origin/main
